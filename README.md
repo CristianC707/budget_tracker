@@ -12,11 +12,11 @@ npm i
 ![Budget Tracker - Google Chrome 11_12_2021 10_04_58 PM (2)](https://user-images.githubusercontent.com/83788525/141603546-65aa1e5c-f8f4-4786-bfe0-325a9c72034f.png)
 
 ## Tech Stack
-compression
-express
-lite-server
-mongoose
-morgan
+Markup: *compression
+*express
+*lite-server
+*mongoose
+*morgan
 
 
 ## Link To Deployed Site
